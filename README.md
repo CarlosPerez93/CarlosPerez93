@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">👋 Hi, I'm Carlos Alberto Pérez Cuellar 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="https://imgur.com/etxWii6">
 
 ## About me
 
