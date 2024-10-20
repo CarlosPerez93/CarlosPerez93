@@ -191,7 +191,7 @@
 <div align="center">
 <a href="https://github.com/CarlosPerez93/pokemon-web" target="_blank">
 <img 
-  width="100" 
+  width="300" 
   height="200" 
   borderRadius="50%" 
   src="https://i.pinimg.com/enabled/564x/ee/d8/c0/eed8c08afcd7335ccef90f757e4444dc.jpg" 
