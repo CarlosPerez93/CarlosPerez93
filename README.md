@@ -19,7 +19,9 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="https://www.linkedin.com/in/carlos-perez93/"
       height="30"
-      width="40" />
+      width="40"
+      borderRadius="50%" 
+       />
   </a>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,6 +32,7 @@
       alt="bootstrap"
       width="40"
       height="40"
+      borderRadius="50%"
     />
   </a>
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
@@ -38,6 +41,7 @@
       alt="chartjs"
       width="40"
       height="40"
+      borderRadius="50%"
     />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -46,6 +50,7 @@
       alt="css3"
       width="40"
       height="40"
+      borderRadius="50%"
     />
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
@@ -54,6 +59,7 @@
       alt="firebase"
       width="40"
       height="40"
+      borderRadius="50%"
     />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -62,6 +68,7 @@
       alt="git"
       width="40"
       height="40"
+      borderRadius="50%"
     />
   </a>
   <a
@@ -74,6 +81,7 @@
       alt="javascript"
       width="40"
       height="40"
+      borderRadius="50%"
     />
   </a>
   <a href="https://jestjs.io" target="_blank" rel="noreferrer">
@@ -82,6 +90,7 @@
       alt="jest"
       width="40"
       height="40"
+      borderRadius="50%"
     />
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -90,6 +99,7 @@
       alt="mysql"
       width="40"
       height="40"
+      borderRadius="50%"
     />
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -98,6 +108,7 @@
       alt="nodejs"
       width="40"
       height="40"
+      borderRadius="50%"
     />
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
@@ -106,6 +117,7 @@
       alt="postgresql"
       width="40"
       height="40"
+      borderRadius="50%"
     />
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -114,6 +126,7 @@
       alt="react"
       width="40"
       height="40"
+      borderRadius="50%"
     />
   </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
@@ -122,6 +135,7 @@
       alt="reactnative"
       width="40"
       height="40"
+      borderRadius="50%"
     />
   </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
@@ -130,6 +144,7 @@
       alt="redux"
       width="40"
       height="40"
+      borderRadius="50%"
     />
   </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
@@ -138,6 +153,7 @@
       alt="sass"
       width="40"
       height="40"
+      borderRadius="50%"
     />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
@@ -146,12 +162,14 @@
       alt="typescript"
       width="40"
       height="40"
+      borderRadius="50%"
     />
   </a>
   <a href="https://antv.antgroup.com/" target="_blank" rel="noreferrer">
     <img 
       src="https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*A-lcQbVTpjwAAAAAAAAAAAAADmJ7AQ/original"
       alt="antv"
+      borderRadius="50%"
     />
   </a>
    <a href="https://ant.design/" target="_blank" rel="noreferrer">
@@ -160,6 +178,7 @@
       alt="ant design"
       width="40"
       height="40"
+      borderRadius="50%"
       />
   </a>
 </p>
@@ -170,8 +189,14 @@
 <td width="50%">
 <h3 align="center">Pokemon Web</h3>
 <div align="center">
-<a href="https://github.com/CarlosPerez93/pokemon-web" target="_blank"><img 
-width="200" height="200" src="https://i.pinimg.com/enabled/564x/ad/0a/38/ad0a38b8fcab6ed8fce7d260f427ca0b.jpg" alt="pokemon"/><track kind="captions" src=""></video></a>
+<a href="https://github.com/CarlosPerez93/pokemon-web" target="_blank">
+<img 
+  width="200" 
+  height="200" 
+  borderRadius="50%" 
+  src="https://i.pinimg.com/enabled/564x/ad/0a/38/ad0a38b8fcab6ed8fce7d260f427ca0b.jpg" 
+  alt="pokemon"/>
+  <track kind="captions" src=""></video></a>
 <p>
 <a href="https://github.com/CarlosPerez93/pokemon-web" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
