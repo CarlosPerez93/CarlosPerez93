@@ -170,7 +170,8 @@
 <td width="50%">
 <h3 align="center">Pokemon Web</h3>
 <div align="center">
-<a href="https://github.com/CarlosPerez93/pokemon-web" target="_blank"><img src="https://i.pinimg.com/enabled/564x/ad/0a/38/ad0a38b8fcab6ed8fce7d260f427ca0b.jpg" alt="pokemon"/><track kind="captions" src=""></video></a>
+<a href="https://github.com/CarlosPerez93/pokemon-web" target="_blank"><img 
+width="200" height="200" src="https://i.pinimg.com/enabled/564x/ad/0a/38/ad0a38b8fcab6ed8fce7d260f427ca0b.jpg" alt="pokemon"/><track kind="captions" src=""></video></a>
 <p>
 <a href="https://github.com/CarlosPerez93/pokemon-web" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
