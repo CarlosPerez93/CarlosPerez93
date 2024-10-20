@@ -2,7 +2,8 @@
   <h1 align="center">👋 Hi, I'm Carlos Alberto Pérez Cuellar 👋</h1>
 </div>
 <img src="https://i.imgur.com/etxWii6.png">
-## About me
+
+<h3 align="left">About me</h3>
 
 - 👨‍💻 Front-end developer passionate about creating attractive and functional web interfaces.
 - 🎨 I love working with HTML, CSS, JavaScript, and React to design interactive and accessible experiences.
