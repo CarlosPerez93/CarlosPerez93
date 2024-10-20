@@ -135,7 +135,7 @@
       alt="reactnative"
       width="40"
       height="40"
-      borderRadius="50%"
+      borderRadius="50"
     />
   </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
@@ -144,7 +144,6 @@
       alt="redux"
       width="40"
       height="40"
-      borderRadius="50%"
     />
   </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
@@ -162,14 +161,12 @@
       alt="typescript"
       width="40"
       height="40"
-      borderRadius="50%"
     />
   </a>
   <a href="https://antv.antgroup.com/" target="_blank" rel="noreferrer">
     <img 
       src="https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*A-lcQbVTpjwAAAAAAAAAAAAADmJ7AQ/original"
       alt="antv"
-      borderRadius="50%"
     />
   </a>
    <a href="https://ant.design/" target="_blank" rel="noreferrer">
@@ -178,7 +175,6 @@
       alt="ant design"
       width="40"
       height="40"
-      borderRadius="50%"
       />
   </a>
 </p>
@@ -193,10 +189,9 @@
 <img 
   width="300" 
   height="200" 
-  borderRadius="50%" 
   src="https://i.pinimg.com/enabled/564x/ee/d8/c0/eed8c08afcd7335ccef90f757e4444dc.jpg" 
   alt="pokemon"/>
-  <track kind="captions" src=""></video></a>
+</a>
 <p>
 <a href="https://github.com/CarlosPerez93/pokemon-web" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
