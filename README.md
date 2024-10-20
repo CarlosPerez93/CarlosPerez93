@@ -164,13 +164,13 @@
   </a>
 </p>
 
-## Projects *bombitas*
+## Projects
 <table>
 <tr>
 <td width="50%">
 <h3 align="center">Pokemon Web</h3>
 <div align="center">
-<a href="https://github.com/CarlosPerez93/pokemon-web" target="_blank"><img src="[https://i.imgur.com/Jji0CIE.jpg](https://pin.it/3VjBJ0kXl)" width="400" alt="pokemon-web"></a>
+<a href="https://github.com/CarlosPerez93/pokemon-web" target="_blank"><video class="hwa kVc MIw L4E" poster="https://i.pinimg.com/enabled/564x/c9/b4/11/c9b411f4f4dec74767103c0b4e2a74b5.jpg" preload="auto" src="blob:https://co.pinterest.com/ae8117da-e3e8-40da-bb82-2a36a34a7119"><track kind="captions" src=""></video></a>
 <p>
 <a href="https://github.com/CarlosPerez93/pokemon-web" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
