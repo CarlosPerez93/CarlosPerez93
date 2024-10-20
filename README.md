@@ -194,7 +194,7 @@
   width="200" 
   height="200" 
   borderRadius="50%" 
-  src="https://i.pinimg.com/enabled/564x/ad/0a/38/ad0a38b8fcab6ed8fce7d260f427ca0b.jpg" 
+  src="https://i.pinimg.com/enabled/564x/00/f1/82/00f1823603765c59d856bc7c16c434bc.jpg" 
   alt="pokemon"/>
   <track kind="captions" src=""></video></a>
 <p>
