@@ -186,8 +186,7 @@
         </a>
       </p>
     <p>
-      Una página dedicada a los fanáticos de Pokémon, donde puedes explorar información detallada sobre diferentes Pokémon, 
-      sus habilidades, evoluciones y más. ¡Descubre todo lo que necesitas saber para convertirte en un verdadero Maestro Pokémon! (aun en desarrollo)      
+      A page dedicated to Pokémon fans, where you can explore detailed information about different Pokémon, their abilities, evolutions, and more. Discover everything you need to know to become a true Pokémon Master! (still in development)  
     </p>
   </div>
                                                                                       
