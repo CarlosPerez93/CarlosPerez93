@@ -5,10 +5,11 @@
 
 <h3 align="left">About me</h3>
 
-- 👨‍💻 Front-end developer passionate about creating attractive and functional web interfaces.
-- 🎨 I love working with HTML, CSS, JavaScript, and React to design interactive and accessible experiences.
-- ⚡ Always looking to optimize performance and improve user experience.
-- 🚀 Lover of challenges and best coding practices.
+🤖 AI-augmented Front-end Developer building the next generation of web interfaces.
+
+⚡ I blend modern web technologies (HTML, CSS, JavaScript, React) with AI-powered workflows to craft lightning-fast, accessible, and hyper-personalized user experiences.
+
+🚀 Prompting excellence, writing clean code, and turning complex challenges into intuitive digital products.
 
 <br>
 <h3 align="left">Connect with me:</h3>
