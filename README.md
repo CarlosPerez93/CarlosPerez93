@@ -6,9 +6,7 @@
 <h3 align="left">About me</h3>
 
 🤖 AI-augmented Front-end Developer building the next generation of web interfaces.
-
 ⚡ I blend modern web technologies (HTML, CSS, JavaScript, React) with AI-powered workflows to craft lightning-fast, accessible, and hyper-personalized user experiences.
-
 🚀 Prompting excellence, writing clean code, and turning complex challenges into intuitive digital products.
 
 <br>
