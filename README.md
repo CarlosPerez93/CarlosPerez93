@@ -51,7 +51,7 @@
       borderRadius="50%"
     />
   </a>
-  <br/>
+
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
@@ -81,6 +81,7 @@
       height="40"
     />
   </a>
+    <br/>
   <a href="https://jestjs.io" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
@@ -129,6 +130,8 @@
       height="40"
     />
   </a>
+    <br/>
+  
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
