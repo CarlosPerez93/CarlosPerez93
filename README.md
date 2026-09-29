@@ -182,6 +182,14 @@
       height="40"
       />
   </a>
+   <a href="https://chatgpt.com/" target="_blank" rel="noreferrer">
+    <img
+      src="[https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg](https://static.vecteezy.com/system/resources/thumbnails/042/165/837/small/chatgpt-icon-green-and-white-icon-free-png.png)"
+      alt="chat gpt"
+      width="40"
+      height="40"
+      />
+  </a>
 </p>
 
 ## Projects
