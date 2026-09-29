@@ -182,6 +182,8 @@
       height="40"
       />
   </a>
+  &emsp;
+  &emsp;
    <a href="https://chatgpt.com/" target="_blank" rel="noreferrer">
     <img
       src="https://static.vecteezy.com/system/resources/thumbnails/042/165/837/small/chatgpt-icon-green-and-white-icon-free-png.png"
@@ -190,6 +192,18 @@
       height="40"
       />
   </a>
+  &emsp;
+   <a href="https://gemini.google.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://static.vecteezy.com/system/resources/previews/072/678/014/non_2x/gemini-ai-logo-icon-free-png.png"
+      alt="chat gpt"
+      width="40"
+      height="40"
+      />
+  </a>
+  &emsp;
+  
+  
 </p>
 
 ## Projects
