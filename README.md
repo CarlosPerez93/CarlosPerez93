@@ -82,6 +82,24 @@
       </div>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Rick and Morty</h3>
+      <div align="center">
+        <a href="https://github.com/CarlosPerez93/Rick-and-Morty---Angular-Graphql-" target="_blank">
+          <img width="280" height="180" src="https://imgs.search.brave.com/I2fFG5pihxRuqeaIrUmppghGxmfvtfAiPKL2fhCQn2s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDU0ODE3/NTYuanBn" alt="rick and morty"/>
+        </a>
+        <p>
+          <a href="https://github.com/CarlosPerez93/Rick-and-Morty---Angular-Graphql-" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p align="left">
+     Web application in development with Angular 12 and GraphQL to explore and manage information from the Rick and Morty universe. 🚧</em>.
+        </p>
+      </div>
+    </td>
+  </tr>
 </table>
 
 ---
