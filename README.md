@@ -35,7 +35,7 @@
 **Backend & Data:**
 <p>
   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="36" height="36"/></a> &nbsp;&nbsp;
-  <a href="https://graphql.org/" target="_blank"><img src="https://imgs.search.brave.com/NdOBJViP6NmWLlP_QybpDX1kUchtdVCA9OK6k5-kIzc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNvbnMvNmY1MzBjMWRl/MTZiN2U3ZDg1YWIz/NDFlOWUwYTNlNGUy/Y2Y2OGY3YzcwMmQ5/ZWUxYTZlZjBiMzIx/MjM3MDA2OC9ncmFw/aHFsLm9yZy8" alt="graphql" width="36" height="36"/></a> &nbsp;&nbsp;
+  <a href="https://graphql.org/" target="_blank"><img src="https://imgs.search.brave.com/NdOBJViP6NmWLlP_QybpDX1kUchtdVCA9OK6k5-kIzc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmY1MzBjMWRl/MTZiN2U3ZDg1YWIz/NDFlOWUwYTNlNGUy/Y2Y2OGY3YzcwMmQ5/ZWUxYTZlZjBiMzIx/MjM3MDA2OC9ncmFw/aHFsLm9yZy8" alt="graphql" width="36" height="36"/></a> &nbsp;&nbsp;
   <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="36" height="36"/></a> &nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="36" height="36"/></a>
 </p>
