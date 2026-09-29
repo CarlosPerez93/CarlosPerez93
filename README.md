@@ -81,8 +81,6 @@
         </p>
       </div>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">Rick and Morty</h3>
       <div align="center">
