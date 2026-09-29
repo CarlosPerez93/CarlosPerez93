@@ -34,7 +34,7 @@
       height="40"
     />
   </a>
-   &emsp
+   &emsp;
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
     <img
       src="https://www.chartjs.org/media/logo-title.svg"
