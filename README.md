@@ -34,6 +34,7 @@
       height="40"
     />
   </a>
+   &emsp
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
     <img
       src="https://www.chartjs.org/media/logo-title.svg"
@@ -42,6 +43,7 @@
       height="40"
     />
   </a>
+   &emsp
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -51,7 +53,7 @@
       borderRadius="50%"
     />
   </a>
-
+ &emsp
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
@@ -60,6 +62,7 @@
       height="40"
     />
   </a>
+   &emsp
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -69,6 +72,7 @@
       borderRadius="50%"
     />
   </a>
+   &emsp
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
@@ -81,7 +85,7 @@
       height="40"
     />
   </a>
-    <br/>
+    &emsp
   <a href="https://jestjs.io" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
@@ -90,6 +94,7 @@
       height="40"
     />
   </a>
+   &emsp
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
@@ -98,6 +103,7 @@
       height="40"
     />
   </a>
+   &emsp
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -106,6 +112,7 @@
       height="40"
     />
   </a>
+   &emsp
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
@@ -114,6 +121,7 @@
       height="40"
     />
   </a>
+   &emsp
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -122,6 +130,7 @@
       height="40"
     />
   </a>
+   &emsp
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img
       src="https://reactnative.dev/img/header_logo.svg"
@@ -130,8 +139,7 @@
       height="40"
     />
   </a>
-    <br/>
-  
+     &emsp  
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
@@ -140,6 +148,7 @@
       height="40"
     />
   </a>
+   &emsp
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
@@ -148,6 +157,7 @@
       height="40"
     />
   </a>
+   &emsp
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
@@ -156,12 +166,14 @@
       height="40"
     />
   </a>
+   &emsp
   <a href="https://antv.antgroup.com/" target="_blank" rel="noreferrer">
     <img 
       src="https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*A-lcQbVTpjwAAAAAAAAAAAAADmJ7AQ/original"
       alt="antv"
     />
   </a>
+   &emsp
    <a href="https://ant.design/" target="_blank" rel="noreferrer">
     <img
       src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg"
