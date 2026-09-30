@@ -77,7 +77,7 @@
           </a>
         </p>
         <p align="left">
-          A web application designed for Pokémon fans to explore detailed data on abilities, stats, and evolutions. Built as an interactive platform to practice modern front-end patterns <em>(still in active development)</em>.
+          🧬 Explore Pokémon abilities, stats, and evolutions in an interactive Pokédex. ⚡ Built with modern front-end patterns. 🚧 Work in progress.</em>.
         </p>
       </div>
     </td>
@@ -94,6 +94,24 @@
         </p>
         <p align="left">
      Web application in development with Angular 12 and GraphQL to explore and manage information from the Rick and Morty universe. 🚧</em>.
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Tic-Tac-Toe</h3>
+      <div align="center">
+        <a href="https://github.com/CarlosPerez93/tic-tac-toe" target="_blank">
+          <img width="180" height="180" src="https://raw.githubusercontent.com/CarlosPerez93/tic-tac-toe/refs/heads/master/public/icons8-tres-en-raya-100.png" alt="tic-tac-toe"/>
+        </a>
+        <p>
+          <a href="https://github.com/CarlosPerez93/tic-tac-toe" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p align="left">
+            🎮 Tic-Tac-Toe built with React & TypeScript. Challenge a bot that blends Minimax strategy with unpredictable moves. ❌⭕</em>.
         </p>
       </div>
     </td>
